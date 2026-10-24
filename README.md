@@ -7,3 +7,7 @@ The feature atlas adapts the existing Artinfact feature board: 20 descriptions a
 Deploy main branch / root with GitHub Pages. Only public website material belongs here; no private PDFs, credentials or plugin runtime. Public plugin review is not yet submitted.
 
 Maintainer confirmed: no additional telemetry; support email deleted within 90 days after case closure except legally required retention.
+
+## Recorded tour
+
+`tour.html` hosts the recorded 7:34 English-subtitled tour with no audio track. The media shows the desktop plugin and a labeled local preview. AI and Pages menus are workflow introductions, not claimed completed executions. No login is required to watch the MP4.
